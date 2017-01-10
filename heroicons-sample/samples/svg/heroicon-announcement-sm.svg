@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60px" height="60px" viewBox="0 0 60 60" class="heroicon-announcement heroicon heroicon-sm">
+    <g fill-rule="evenodd">
+        <path class="heroicon-announcement-front heroicon-component-accent heroicon-component-fill" d="M54 2h-1v46h1a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zm4 26h-1v-6h1v6z" />
+        <path class="heroicon-announcement-bowl heroicon-propery-accent heroicon-component-fill" d="M51 43.25V6.75a51.75 51.75 0 0 1-22 9.47v17.56a51.75 51.75 0 0 1 22 9.47z" />
+        <polygon class="heroicon-announcement-middle heroicon-component-accent heroicon-component-fill" points="12.4 35 12 33 26 33 26 35 27 35 27 15 9 15 9 35" />
+        <path class="heroicon-announcement-handle heroicon-component-accent heroicon-component-fill" d="M23.57 42.15l.57.02a1 1 0 0 0 .92-1.44l-.59-1.22-1.08.36.18 2.28zm-2.3-3.68l-5.75 1.92L14.44 35H24v2.56l-2.73.9zM19.66 57.7l-2.68-16.75 4.37-1.46L22.83 58h-2.82c-.13 0-.33-.17-.35-.3z" />
+        <path class="heroicon-announcement-back heroicon-component-fill" d="M3 30v2c0 1.1.9 2 2 2h3V16H5a2 2 0 0 0-2 2v2H1v10h2z" />
+        <path class="heroicon-shadows" d="M9 25h18v10h-2v3H14v-3H9V25zm12.67 18.44l-4.08 1.36-.61-3.85 4.37-1.46.32 3.95zm29.33-.2a51.75 51.75 0 0 0-22-9.46v-8a51.75 51.75 0 0 1 22 9.47v8zM52 25h4v22a2 2 0 0 1-2 2h-2V25z" />
+        <path class="heroicon-outline" d="M31 18.39a54.17 54.17 0 0 0 18-7.24V9.97a53.2 53.2 0 0 1-18 7.4v1.02zM53 0h-2v4.23a49.78 49.78 0 0 1-22 9.96V13H7v2H5a3 3 0 0 0-3 3v1H0v12h2v1a3 3 0 0 0 3 3h2v2h5.8l.81 4.05c.16.82.81 1.37 1.58 1.41l2.5 15.56A2.43 2.43 0 0 0 20 60h2.98c1.12 0 1.94-.9 1.85-2l-1.1-13.84h.35a3 3 0 0 0 2.78-4.3L26 38.07V37h3v-1.2a49.78 49.78 0 0 1 22 9.97V50h3a3 3 0 0 0 3-3V30h1a2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2h-1V3a3 3 0 0 0-3-3h-1zm1 2h-1v46h1a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zm-3 41.25V6.75a51.75 51.75 0 0 1-22 9.47v17.56a51.75 51.75 0 0 1 22 9.47zM7 33v-1H6a1 1 0 1 1 0-2h1v-2H6a1 1 0 1 1 0-2h1v-2H6a1 1 0 1 1 0-2h1v-2H6a1 1 0 1 1 0-2h1v-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h2zm-4-4v-8H2v8h1zm55-1h-1v-6h1v6zm-45.6 7l-.4-2h14v2h1V15H11v20h1.4zm11.17 7.15l.57.02a1 1 0 0 0 .92-1.44l-.59-1.22-1.08.36.18 2.28zM9 28v7h1V15H9v13zm12.27 10.47l-5.75 1.92L14.44 35H24v2.56l-2.73.9zM19.66 57.7l-2.68-16.75 4.37-1.46L22.83 58h-2.82c-.13 0-.33-.17-.35-.3z" />
+    </g>
+</svg>

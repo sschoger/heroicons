@@ -1,0 +1,28 @@
+.container { max-width: 800px; margin-top: 60px; margin-bottom: 60px;}
+
+.heroicons-example code { display:block; }
+
+.heroicon-lg { margin-right: 10px; margin-bottom: 20px; }
+.heroicon-sm, .heroicon-lg { vertical-align: middle; }
+
+.heroicons-example-outline .heroicon-home .heroicon-outline { fill: #303034; }
+.heroicons-example-outline .heroicon-home .heroicon-component-fill { display: none; }
+.heroicons-example-outline .heroicon-home .heroicon-shadows { display: none; }
+
+.heroicons-example-shadows .heroicon-home .heroicon-outline { fill: #303034; }
+.heroicons-example-shadows .heroicon-home .heroicon-component-fill { display: none; }
+.heroicons-example-shadows .heroicon-home .heroicon-shadows { fill: #303034; opacity: 0.4;}
+
+.heroicons-example-accent .heroicon-home .heroicon-outline { fill: #303034; }
+.heroicons-example-accent .heroicon-home .heroicon-component-fill { fill: #FFFFFF; }
+.heroicons-example-accent .heroicon-home .heroicon-component-accent { fill: #7ACFC0; }
+.heroicons-example-accent .heroicon-home .heroicon-shadows { fill: #303034; opacity: 0.4;}
+
+.heroicons-example-full .heroicon-home .heroicon-outline { fill: #303034; }
+.heroicons-example-full .heroicon-home .heroicon-shadows { display: none; }
+.heroicons-example-full .heroicon-home .heroicon-home-roof { fill: #7ACFC0; }
+.heroicons-example-full .heroicon-home .heroicon-home-wall { fill: #F2F3D8; }
+.heroicons-example-full .heroicon-home .heroicon-home-frames { fill: #A6BEBA; }
+.heroicons-example-full .heroicon-home .heroicon-home-windows { fill: #DFF6F9; }
+.heroicons-example-full .heroicon-home .heroicon-home-door { fill: #DF7171; }
+.heroicons-example-full .heroicon-home .heroicon-home-parging { fill:#F1F4F4; }

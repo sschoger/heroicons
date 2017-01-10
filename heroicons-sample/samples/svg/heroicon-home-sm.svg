@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60px" height="60px" viewBox="0 0 60 60" class="heroicon-home heroicon heroicon-sm">
+    <g fill-rule="evenodd">
+        <polygon class="heroicon-home-roof heroicon-component-accent heroicon-component-fill" points="0 30 5 25 5 4 26 4 30 0 34 4 55 4 55 25 60 30 57 33 30 6 3 33" />
+        <path class="heroicon-home-wall heroicon-component-fill" d="M37 53h18V30L30 5 5 30v23h18V33h14v20zm-7-30a5 5 0 1 0 0-10 5 5 0 0 0 0 10zM10 33h10v12h1v3H9v-3h1V33zm30 0h10v12h1v3H39v-3h1V33z" />
+        <path class="heroicon-home-frames heroicon-component-accent heroicon-component-fill" d="M35 53h2V33H23v20h2V35h10v18zm-5-30a5 5 0 1 0 0-10 5 5 0 0 0 0 10zM10 33h10v12h1v3H9v-3h1V33zm30 0h10v12h1v3H39v-3h1V33zm-28 2h6v11h-6V35zm30 0h6v11h-6V35zM30 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+        <rect class="heroicon-home-door heroicon-component-accent heroicon-component-fill" width="10" height="18" x="25" y="35" />
+        <path class="heroicon-home-windows heroicon-component-fill" d="M12 35h6v11h-6V35zm30 0h6v11h-6V35zM30 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+        <rect class="heroicon-home-parging heroicon-component-fill" width="50" height="7" x="5" y="53" />
+        <path class="heroicon-shadows" d="M5 30L30 5l25 25v3L30 8 5 33v-3zm4 18h12v1H9v-1zm30 0h12v1H39v-1z" />
+        <path class="heroicon-outline" d="M33 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm-3 2a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 3a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm4-5a4 4 0 1 1-8 0 4 4 0 0 1 8 0zM10 34v11H9v3h12v-3h-1V33H10v1zm9 0h-8v11h1V35h6v10h1V34zm-6 11v-4h4v4h-4zm4-5h-4v-4h4v4zm2 6h1v1H10v-1h9zm21-1V33h10v12h1v3H39v-3h1zm9-11v11h-1V35h-6v10h-1V34h8zm-2 6v-4h-4v4h4zm3 6H40v1h10v-1zm-3-1v-4h-4v4h4zm-18 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm-2-2v-6h2v1h-1v5h-1zm0 5v3h1v-3h5v-1h-6v1zm6-11v1h-1v5h-1v-6h2zm22 21V31l1.3 1.3.7.7.7-.7 1.6-1.6.7-.7-.7-.7L55 25V4H34L30.7.7 30 0l-.7.7L26 4H5v21L.7 29.3 0 30l.7.7 1.6 1.6.7.7.7-.7L5 31v27H0v2h60v-2h-5zM30.7 6.7L49 25H11L29.3 6.7 30 6l.7.7zM7 29l3-3h40l3 3v23H37V33H23v19H7V29zm46-18V9h-4V8h2V7h1v1h1V6H36l2 2h3V7h1v1h2v1h-5l5 5h1v-1h1v1h4v1h-5l8 8V12h-7v-1h2v-1h1v1h4zM7 6h17l-5 5v-1h-1v1h-5v-1h-1v1h-2v1h8L7 23v-8h7v-1h-4v-1H9v1H7V9h6V8h-3V7H9v1H7V6zM3 31.59l26.3-26.3.7-.7.7.7L57 31.6 58.59 30 30 1.41 1.41 30 3 31.59zM19 58v-3h2v-2H7v5h12zm20 0v-1H21v1h18zm14 0v-5H39v2h2v3h12zm-17-6h-1V35H25v17h-1V34h12v18zM26 36h8v16h-8V36zm11 18v1H23v-1h14z" />
+    </g>
+</svg>
