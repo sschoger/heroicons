@@ -1,0 +1,17 @@
+.container{
+	max-width: 600px;
+	margin: 40px auto;
+}
+
+body{ 
+	font-family: 'Trade Gothic W01 Roman', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	line-height: 1.5em;
+}
+
+ol{
+	margin-bottom: 1.5em;
+}
+
+li{
+	margin-bottom: .75em;
+}
