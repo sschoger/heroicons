@@ -168,6 +168,10 @@ a:hover, a:focus {
     font-size: $font-size-lg;
 }
 
+.vertical-divider{
+    opacity: .4;
+}
+
 .btn-green:hover{
     background-color: $color-white;
     border: 2px solid $color-white;
@@ -239,6 +243,7 @@ section {
 a.social-target{
     cursor: pointer;
 }
+
 
 .bg-pattern {
     background-color: $color-dark;

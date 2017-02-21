@@ -119,6 +119,9 @@ a:hover, a:focus {
   color: #fff;
   font-size: 1.25rem; }
 
+.vertical-divider {
+  opacity: .4; }
+
 .btn-green:hover {
   background-color: #fff;
   border: 2px solid #fff;
